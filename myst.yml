@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d51450b6-99f3-435b-a6f9-16ed10e21ba5
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/giswqs/geoai-book-chapter
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
