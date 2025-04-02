@@ -7,3 +7,4 @@ This repository contains a book chapter on **Geospatial Data Visualization with 
 ![](images/building_height_2d.jpg)
 ![](images/building_height_3d.jpg)
 ![](images/overture_buildings_3d.jpg)
+![](images/gee_nlcd.jpg)
