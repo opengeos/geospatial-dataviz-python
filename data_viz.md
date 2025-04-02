@@ -503,7 +503,7 @@ The `add_raster()` function:
 
 1. Retrieves the raster data from the specified URL
 2. Applies the band combination specified by `indexes`
-3. Contructs a tile layer from the raster data
+3. Constructs a tile layer from the raster data
 4. Adds it as an interactive layer to the map
 
 This particular band combination (5-4-3) makes vegetation appear bright red, urban areas appear cyan, and water appears dark blue or black. Different band combinations highlight different features on the Earth's surface.
