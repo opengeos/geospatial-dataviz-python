@@ -9,23 +9,6 @@ kernelspec:
   display_name: Python 3 (ipykernel)
   language: python
   name: python3
-# title: Geospatial Data Visualization with Python
-# authors:
-#   - name: Qiusheng Wu
-#     affiliations:
-#       - Department of Geography and Sustainability, University of Tennessee, Knoxville
-#     orcid: 0000-0001-5437-4073
-#     email: qwu18@utk.edu
-#   - name: Xinming Zhang
-#     affiliations:
-#       - Department of Geography and Sustainability, University of Tennessee, Knoxville
-#     orcid: 0000-0001-5437-4073
-#     email: xzhan142@vols.utk.edu
-# date: 2025-04-01
-# license: CC-BY-4.0
-# exports:
-#   - format: docx
-#   - format: pdf
 ---
 
 # Geospatial Data Visualization with Python
@@ -99,7 +82,7 @@ This command activates the `geoenv` environment, allowing you to install and man
 4. **Install geospatial libraries**: Leverage the `conda-forge` channel, a community-driven repository known for providing up-to-date and well-maintained geospatial packages. Use the following command to install essential libraries:
 
 ```bash
-conda install -c conda-forge geopandas rasterio leafmap geemap maplibre
+conda install -c conda-forge geopandas rasterio leafmap geemap maplibre fiona localtileserver mapclassify
 ```
 
 This command installs `geopandas` (for vector data), `rasterio` (for raster data), `leafmap` (for interactive maps), `geemap` (for Google Earth Engine integration), and `maplibre` (for 3D visualization). The `-c conda-forge` flag specifies that packages should be installed from the conda-forge channel, which typically has the most up-to-date versions of geospatial packages with proper dependency management.
@@ -129,7 +112,7 @@ This command creates a new virtual environment with the default Python version i
 3. **Install geospatial libraries**: Use `uv pip` to install the required geospatial libraries within the activated virtual environment:
 
 ```bash
-uv pip install geopandas rasterio leafmap geemap maplibre
+uv pip install geopandas rasterio leafmap geemap maplibre fiona localtileserver mapclassify
 ```
 
 Unlike conda, which manages complex binary dependencies, `uv` primarily manages Python packages. However, its significantly faster installation speeds (often 10x faster than traditional pip) make it an excellent choice for projects where the underlying system dependencies are already available.
@@ -165,6 +148,20 @@ jupyter lab
 
 Once JupyterLab is running, you can access it through your web browser. Create a new notebook to start working with geospatial data. JupyterLab's interface allows you to easily manage multiple notebooks, text editors, and terminal sessions within a single window, enhancing your productivity and workflow.
 
+#### Source Code
+
+The source code for this chapter is available on GitHub at the following link:
+
+- https://github.com/opengeos/geospatial-dataviz-python
+
+You can clone the repository and run the Jupyter notebooks locally or on Google Colab to follow along with the examples and exercises presented in this chapter.
+
+If you are using Google Colab, you can directly install the required libraries by running the following command in a code cell:
+
+```{code-cell} ipython3
+%pip install geopandas rasterio leafmap geemap maplibre fiona localtileserver mapclassify
+```
+
 #### Testing Your Installation
 
 To ensure that your Python environment is correctly set up with all the geospatial libraries, let's create a new code block in a Jupyter Notebook and run a simplele test script. This script will verify that the required libraries can be imported and that basic functionality is working.
@@ -188,14 +185,6 @@ m
 ```
 
 If the script executes without any errors and displays an interactive map, it confirms that your environment is properly configured and ready for geospatial data visualization. The import statements load the necessary libraries, the print statements display the version numbers, and the `leafmap.Map()` call creates a basic interactive map, which is the ultimate test of your setup. The interactive map should appear directly in your notebook, with zoom controls and a basemap showing a world map.
-
-#### Source Code
-
-The source code for this chapter is available on GitHub at the following link:
-
-- https://github.com/opengeos/geospatial-dataviz-python
-
-You can clone the repository and run the Jupyter notebooks locally or on Google Colab to follow along with the examples and exercises presented in this chapter.
 
 ### Fundamental Geospatial Data Types
 
@@ -674,10 +663,10 @@ In this section, we explore practical applications of geospatial analysis techni
 
 ### Required Packages
 
-Let's start by installing the necessary packages for this section. Uncomment the code below to install the required packages in your Python environment:
+Let's start by installing the necessary packages for this section. Execute the code below to install the required packages in your Python environment:
 
 ```{code-cell} ipython3
-# !pip install maplibre rasterstats overturemaps rioxarray planetary-computer
+%pip install maplibre rasterstats overturemaps rioxarray planetary-computer
 ```
 
 This installation command adds specialized packages needed for our advanced examples:
@@ -777,7 +766,7 @@ The resulting DataFrame shows quantitative information about land cover distribu
 Let's save these results to a CSV file for further analysis:
 
 ```{code-cell} ipython3
-df.to_csv('data/nlcd_stats.csv')
+df.to_csv('nlcd_stats.csv')
 ```
 
 This saves the statistical results to a CSV file, allowing for further analysis in spreadsheet software or other data analysis tools.
@@ -1122,7 +1111,7 @@ This displays the first few rows of the GeoDataFrame, showing:
 We save the building data for later use:
 
 ```{code-cell} ipython3
-gdf.to_file("data/buildings.geojson")
+gdf.to_file("buildings.geojson")
 ```
 
 This saves the building footprints as a GeoJSON file, which can be shared or used in other GIS applications. GeoJSON is a standard format for geospatial vector data that's widely supported by mapping libraries and GIS software.
@@ -1202,7 +1191,7 @@ gdf['height'] = stats['median']
 This adds or updates the 'height' column in our original GeoDataFrame with the median height values calculated from the LiDAR data. We use the median rather than the mean because it's less influenced by outliers or noise in the LiDAR data.
 
 ```{code-cell} ipython3
-building_height = "data/building_height.geojson"
+building_height = "building_height.geojson"
 gdf[['height', 'geometry']].to_file(building_height)
 ```
 
