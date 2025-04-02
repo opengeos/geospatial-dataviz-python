@@ -189,6 +189,14 @@ m
 
 If the script executes without any errors and displays an interactive map, it confirms that your environment is properly configured and ready for geospatial data visualization. The import statements load the necessary libraries, the print statements display the version numbers, and the `leafmap.Map()` call creates a basic interactive map, which is the ultimate test of your setup. The interactive map should appear directly in your notebook, with zoom controls and a basemap showing a world map.
 
+#### Source Code
+
+The source code for this chapter is available on GitHub at the following link:
+
+- https://github.com/opengeos/geospatial-dataviz-python
+
+You can clone the repository and run the Jupyter notebooks locally or on Google Colab to follow along with the examples and exercises presented in this chapter.
+
 ### Fundamental Geospatial Data Types
 
 Geospatial data, the information tied to specific locations on Earth, comes in two primary flavors: vector and raster. Understanding these data types is crucial for choosing the right tools and techniques for visualization and analysis.
@@ -1328,5 +1336,3 @@ Support for specialized data types represents a final frontier in geospatial vis
 ## FUTURE IMPLICATIONS
 
 The future of geospatial technology is inextricably linked to advancements in artificial intelligence, promising a paradigm shift in how we analyze, visualize, and interact with spatial data. Large Language Models (LLMs) are poised to revolutionize geospatial workflows, enabling natural language queries for complex analysis, automated report generation, and intelligent data exploration. Complementing this, the development of geospatial foundation models—AI models specifically trained on vast geospatial datasets—will provide a powerful base for diverse applications, from automated feature extraction to predictive modeling. Enhancing accessibility is also paramount, with the rise of low-code and no-code platforms empowering users of all skill levels to harness the power of geospatial analysis. A thriving Jupyter ecosystem, with specialized extensions and seamless geospatial data integration, such as [JupyterGIS](https://github.com/geojupyter/jupytergis), will further streamline development and collaboration. Lastly, the emergence of community-driven [geospatial data catalogs](https://github.com/opengeos/geospatial-data-catalogs) will be critical for ensuring open access to the wealth of geospatial information, fostering innovation and collaborative problem-solving. These converging trends herald a future where geospatial technology is more intelligent, accessible, and collaborative, driving impactful solutions across diverse domains.
-
-+++
