@@ -7,6 +7,7 @@ data/
 *.so
 *.csv
 *.geojson
+private/
 
 # Distribution / packaging
 .Python
