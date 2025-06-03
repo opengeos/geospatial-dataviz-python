@@ -1,6 +1,6 @@
 # Geospatial Data Visualization with Python
 
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geospatial-dataviz-python/blob/main/data_viz.ipynb)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geospatial-dataviz-python/blob/main/data-viz.ipynb)
 
 This repository contains a book chapter on **Geospatial Data Visualization with Python**.
 
