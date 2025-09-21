@@ -1,0 +1,74 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Bossche et~al.}{2024}]{Joris2024}
+Bossche, J.~V., Jordahl, K., Fleischmann, M., Richards, M., McBride, J.,
+  Wasserman, J., Badaracco, A.~G., Snow, A.~D., Ward, B., Tratner, J., Gerard,
+  J., Perry, M., cjqf, Hjelle, G.~A., Taves, M., ter Hoeven, E., Cochran, M.,
+  Bell, R., rraymondgh, Bartos, M., Roggemans, P., Culbertson, L., Caria, G.,
+  Tan, N.~Y., Eubank, N., sangarshanan, Flavin, J., Rey, S., and Gardiner, J.
+  (2024).
+\newblock geopandas/geopandas: v1.0.1.
+
+\bibitem[\protect\astroncite{Cui et~al.}{2023}]{Cui2023}
+Cui, S., Gao, Y., Huang, Y., Shen, L., Zhao, Q., Pan, Y., and Zhuang, S.
+  (2023).
+\newblock {Advances and applications of machine learning and deep learning in
+  environmental ecology and health}.
+\newblock {\em Environmental pollution (Barking, Essex: 1987)},
+  335(122358):122358.
+
+\bibitem[\protect\astroncite{Gillies}{2019}]{Gillies2019}
+Gillies, S. (2019).
+\newblock {rasterio Documentation}.
+\newblock {\em MapBox, July}, 23.
+
+\bibitem[\protect\astroncite{Gorelick et~al.}{2017}]{Gorelick2017}
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., and Moore, R.
+  (2017).
+\newblock {Google Earth Engine: Planetary-scale geospatial analysis for
+  everyone}.
+\newblock {\em Remote sensing of environment}, 202:18--27.
+
+\bibitem[\protect\astroncite{Li et~al.}{2018}]{Li2018}
+Li, Y., Zhang, H., Xue, X., Jiang, Y., and Shen, Q. (2018).
+\newblock {Deep learning for remote sensing image classification: A survey}.
+\newblock {\em Wiley interdisciplinary reviews. Data mining and knowledge
+  discovery}, 8(6):e1264.
+
+\bibitem[\protect\astroncite{Liu and Wu}{2024}]{Liu2024}
+Liu, B. and Wu, Q. (2024).
+\newblock {HyperCoast: A python package for visualizing and analyzing
+  hyperspectral data in coastal environments}.
+\newblock {\em The Journal of open source software}, 9(100):7025.
+
+\bibitem[\protect\astroncite{Osco et~al.}{2023}]{Osco2023}
+Osco, L.~P., Wu, Q., de~Lemos, E.~L., Gonçalves, W.~N., and {others} (2023).
+\newblock {The segment anything model (sam) for remote sensing applications:
+  From zero to one shot}.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation}, (124):103540.
+
+\bibitem[\protect\astroncite{Tufte}{2001}]{Tufte2001}
+Tufte, E.~R. (2001).
+\newblock {\em {The visual display of quantitative information}}.
+\newblock Graphics Press.
+
+\bibitem[\protect\astroncite{Wu}{2020}]{Wu2020}
+Wu, Q. (2020).
+\newblock {geemap: A Python package for interactive mapping with Google Earth
+  Engine}.
+\newblock {\em The Journal of Open Source Software}, 5(51):2272.
+
+\bibitem[\protect\astroncite{Wu}{2021}]{Wu2021}
+Wu, Q. (2021).
+\newblock Leafmap: A {Python} package for interactive mapping and geospatial
+  analysis with minimal coding in a {Jupyter} environment.
+\newblock {\em The Journal of Open Source Software}, 6(63):3414.
+
+\bibitem[\protect\astroncite{Wu and Osco}{2023}]{Wu2023}
+Wu, Q. and Osco, L.~P. (2023).
+\newblock {samgeo: A Python package for segmenting geospatial data with the
+  Segment Anything Model (SAM)}.
+\newblock {\em The Journal of Open Source Software}.
+
+\end{thebibliography}

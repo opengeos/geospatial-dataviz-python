@@ -1,0 +1,41 @@
+\RequirePackage{etoolbox}
+\csdef{input@path}%
+{%
+ {sty/},% class file
+ {img/},% graphics files
+ %{chapter01/},%
+ %{chapter01/img/},%
+}
+\documentclass{elsevierbook}
+
+% === Packages ====
+\usepackage{listings}
+\usepackage{xcolor}
+
+% === Listings setup ====
+\lstset{
+    basicstyle=\ttfamily\footnotesize,
+    frame=single,
+    numbers=left,
+    numberstyle=\tiny,
+    showstringspaces=false,
+    breaklines=true,
+    backgroundcolor=\color{gray!10},
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{red}
+}
+
+% === Bibtex ====
+\usepackage{natbib}
+ \citestyle{apa}
+
+\begin{document}
+
+
+\Mainmatter
+  \include{Ch12}
+
+
+\end{document}
+
