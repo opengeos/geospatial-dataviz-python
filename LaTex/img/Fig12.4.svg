@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="900"
+   height="500"
+   style=""
+   viewBox="0 0 900 500"
+   version="1.1"
+   id="svg156"
+   sodipodi:docname="gee_nlcd_pie_chart.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview156"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.688"
+     inkscape:cx="450.23697"
+     inkscape:cy="250"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="4480"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156" />
+  <rect
+     x="0"
+     y="0"
+     width="900"
+     height="500"
+     style="fill: rgb(255, 255, 255); fill-opacity: 1;"
+     id="rect1" />
+  <defs
+     id="defs-bab051">
+    <g
+       class="clips"
+       id="g1" />
+    <g
+       class="gradients"
+       id="g2" />
+    <g
+       class="patterns"
+       id="g3" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g4" />
+  <g
+     class="layer-below"
+     id="g7">
+    <g
+       class="imagelayer"
+       id="g5" />
+    <g
+       class="shapelayer"
+       id="g6" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g8" />
+  <g
+     class="polarlayer"
+     id="g9" />
+  <g
+     class="smithlayer"
+     id="g10" />
+  <g
+     class="ternarylayer"
+     id="g11" />
+  <g
+     class="geolayer"
+     id="g12" />
+  <g
+     class="funnelarealayer"
+     id="g13" />
+  <g
+     class="pielayer"
+     id="g47">
+    <g
+       class="trace"
+       stroke-linejoin="round"
+       style="opacity: 1;"
+       id="g46">
+      <g
+         class="slice"
+         id="g15">
+        <path
+           class="surface"
+           d="M368,240l0,-180a180,180 0 0 1 177.00036187039453,147.27582090029784Z"
+           style="pointer-events: none; fill: rgb(99, 110, 250); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path13" />
+        <g
+           class="slicetext"
+           id="g14">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(438.178657321006,160.1103035647252)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(255, 255, 255); fill-opacity: 1; white-space: pre;"
+             id="text13">22.1%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g17">
+        <path
+           class="surface"
+           d="M368,240l-165.53820352436375,-70.69019149730975a180,180 0 0 1 165.53820352436375,-109.30980850269025Z"
+           style="pointer-events: none; fill: rgb(239, 85, 59); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path15" />
+        <g
+           class="slicetext"
+           id="g16">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(304.0125597181359,147.65691042449689)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text15">18.6%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g19">
+        <path
+           class="surface"
+           d="M368,240l-164.3877273373339,73.32581469623344a180,180 0 0 1 -1.1504761870298523,-144.0160061935432Z"
+           style="pointer-events: none; fill: rgb(0, 204, 150); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path17" />
+        <g
+           class="slicetext"
+           id="g18">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(239.39886631227262,245.52702196350276)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text17">13.1%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g21">
+        <path
+           class="surface"
+           d="M368,240l-65.40275666716316,167.69758322747484a180,180 0 0 1 -98.98497067017074,-94.3717685312414Z"
+           style="pointer-events: none; fill: rgb(171, 99, 250); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path19" />
+        <g
+           class="slicetext"
+           id="g20">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(277.9489868718265,338.91203054221717)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text19">12.4%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g23">
+        <path
+           class="surface"
+           d="M368,240l50.143538442191485,172.87459487297855a180,180 0 0 1 -115.54629510935465,-5.177011645503711Z"
+           style="pointer-events: none; fill: rgb(255, 161, 90); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path21" />
+        <g
+           class="slicetext"
+           id="g22">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(361.86326643125295,380.59459453334205)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text21">10.4%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g25">
+        <path
+           class="surface"
+           d="M368,240l115.94961214859217,137.67965515133687a180,180 0 0 1 -65.80607370640068,35.194939721641674Z"
+           style="pointer-events: none; fill: rgb(25, 211, 243); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path23" />
+        <g
+           class="slicetext"
+           id="g24">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(438.27554580280923,375.9714084810919)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text23">6.65%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g27">
+        <path
+           class="surface"
+           d="M368,240l153.7482980857077,93.60267536640382a180,180 0 0 1 -37.79868593711552,44.07697978493306Z"
+           style="pointer-events: none; fill: rgb(255, 102, 146); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path25" />
+        <g
+           class="slicetext"
+           id="g26">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(485.62133503841517,345.40093367311385)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text25">5.16%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g29">
+        <path
+           class="surface"
+           d="M368,240l173.80642262034024,46.81161667705649a180,180 0 0 1 -20.058124534632555,46.791058689347324Z"
+           style="pointer-events: none; fill: rgb(182, 232, 128); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path27" />
+        <g
+           class="slicetext"
+           id="g28">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(512.9039098004067,306.6333278249429)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text27">4.52%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g31">
+        <path
+           class="surface"
+           d="M368,240l178.94748695475826,19.43699854855727a180,180 0 0 1 -5.141064334418019,27.374618128499222Z"
+           style="pointer-events: none; fill: rgb(255, 151, 255); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path29" />
+        <g
+           class="slicetext"
+           id="g30">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(517.7984878441177,272.7114343445343)rotate(10.636483850789602)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             id="text29">2.47%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g33">
+        <path
+           class="surface"
+           d="M368,240l179.84388480099986,7.495138403304675a180,180 0 0 1 -0.896397846241598,11.941860145252594Z"
+           style="pointer-events: none; fill: rgb(254, 203, 82); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path31" />
+        <g
+           class="slicetext"
+           id="g32">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(571.3387753280766,266.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text31">1.06%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M547.4950253280766,253.4735252429774V261.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path32" />
+      </g>
+      <g
+         class="slice"
+         id="g35">
+        <path
+           class="surface"
+           d="M368,240l179.96599630890464,-3.4985957959339404a180,180 0 0 1 -0.12211150790477632,10.993734199238615Z"
+           style="pointer-events: none; fill: rgb(198, 202, 253); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path33" />
+        <g
+           class="slicetext"
+           id="g34">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(575.6451473908996,251.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text33">0.972%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M547.9888973908996,241.99920384358953V246.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path34" />
+      </g>
+      <g
+         class="slice"
+         id="g37">
+        <path
+           class="surface"
+           d="M368,240l179.53665146782564,-12.907005063937463a180,180 0 0 1 0.4293448410790006,9.408409268003522Z"
+           style="pointer-events: none; fill: rgb(247, 167, 153); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path35" />
+        <g
+           class="slicetext"
+           id="g36">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(575.4691193415978,236.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text35">0.833%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g39">
+        <path
+           class="surface"
+           d="M368,240l178.68478887620174,-21.719719709683492a180,180 0 0 1 0.8518625916238989,8.812714645746029Z"
+           style="pointer-events: none; fill: rgb(51, 255, 201); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path37" />
+        <g
+           class="slicetext"
+           id="g38">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(574.8211630421306,221.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text37">0.783%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M547.1649130421306,222.6813991729766V216.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path38" />
+      </g>
+      <g
+         class="slice"
+         id="g41">
+        <path
+           class="surface"
+           d="M368,240l177.45308064892157,-30.172904537139488a180,180 0 0 1 1.2317082272801656,8.453184827455996Z"
+           style="pointer-events: none; fill: rgb(224, 198, 253); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path39" />
+        <g
+           class="slicetext"
+           id="g40">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(573.7753382833876,206.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text39">0.755%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M546.1190882833876,214.04638003871565V201.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path40" />
+      </g>
+      <g
+         class="slice"
+         id="g43">
+        <path
+           class="surface"
+           d="M368,240l177.0113447234635,-32.66471856898771a180,180 0 0 1 0.44173592545806173,2.4918140318482216Z"
+           style="pointer-events: none; fill: rgb(255, 219, 192); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path41" />
+        <g
+           class="slicetext"
+           id="g42">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(572.892841870686,191.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text41">0.224%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M545.236591870686,208.58041212772068V186.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path42" />
+      </g>
+      <g
+         class="slice"
+         id="g45">
+        <path
+           class="surface"
+           d="M368,240l177.00036187039444,-32.724179099702695a180,180 0 0 1 0.010982853069066323,0.05946053071498625Z"
+           style="pointer-events: none; fill: rgb(122, 230, 248); fill-opacity: 1; stroke-width: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1;"
+           id="path43" />
+        <g
+           class="slicetext"
+           id="g44">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(580.287105793707,176.27880487954593)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre;"
+             id="text43">0.00535%</text>
+        </g>
+        <path
+           class="textline"
+           stroke-width="1.5"
+           d="M545.005855793707,207.30555070447917V171.77880487954593h3.75"
+           fill="none"
+           style="stroke: rgb(42, 63, 95); stroke-opacity: 1;"
+           id="path44" />
+      </g>
+    </g>
+  </g>
+  <g
+     class="iciclelayer"
+     id="g48" />
+  <g
+     class="treemaplayer"
+     id="g49" />
+  <g
+     class="sunburstlayer"
+     id="g50" />
+  <g
+     class="glimages"
+     id="g51" />
+  <defs
+     id="topdefs-bab051">
+    <g
+       class="clips"
+       id="g52" />
+    <clipPath
+       id="legendbab051">
+      <rect
+         width="238"
+         height="314"
+         x="0"
+         y="0"
+         id="rect52" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-above"
+     id="g55">
+    <g
+       class="imagelayer"
+       id="g53" />
+    <g
+       class="shapelayer"
+       id="g54" />
+  </g>
+  <g
+     class="infolayer"
+     id="g156"
+     transform="translate(-15.402844,18.957346)">
+    <g
+       class="legend"
+       pointer-events="all"
+       transform="translate(649.84,60)"
+       id="g154">
+      <rect
+         class="bg"
+         shape-rendering="crispEdges"
+         width="238"
+         height="314"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1"
+         id="rect55" />
+      <g
+         class="scrollbox"
+         clip-path="url(#legendbab051)"
+         id="g153">
+        <g
+           class="groups"
+           id="g152">
+          <g
+             class="traces"
+             transform="translate(0,14.5)"
+             style="opacity:1"
+             id="g61">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text55">Shrub/Scrub</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g60">
+              <g
+                 class="legendfill"
+                 id="g56" />
+              <g
+                 class="legendlines"
+                 id="g57" />
+              <g
+                 class="legendsymbols"
+                 id="g59">
+                <g
+                   class="legendpoints"
+                   id="g58">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path57" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect60" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,33.5)"
+             style="opacity:1"
+             id="g67">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text61">Cultivated Crops</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g66">
+              <g
+                 class="legendfill"
+                 id="g62" />
+              <g
+                 class="legendlines"
+                 id="g63" />
+              <g
+                 class="legendsymbols"
+                 id="g65">
+                <g
+                   class="legendpoints"
+                   id="g64">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path63" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect66" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,52.5)"
+             style="opacity:1"
+             id="g73">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text67">Grassland/Herbaceous</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g72">
+              <g
+                 class="legendfill"
+                 id="g68" />
+              <g
+                 class="legendlines"
+                 id="g69" />
+              <g
+                 class="legendsymbols"
+                 id="g71">
+                <g
+                   class="legendpoints"
+                   id="g70">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path69" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect72" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,71.5)"
+             style="opacity:1"
+             id="g79">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text73">Evergreen Forest</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g78">
+              <g
+                 class="legendfill"
+                 id="g74" />
+              <g
+                 class="legendlines"
+                 id="g75" />
+              <g
+                 class="legendsymbols"
+                 id="g77">
+                <g
+                   class="legendpoints"
+                   id="g76">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path75" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect78" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,90.5)"
+             style="opacity:1"
+             id="g85">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text79">Deciduous Forest</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g84">
+              <g
+                 class="legendfill"
+                 id="g80" />
+              <g
+                 class="legendlines"
+                 id="g81" />
+              <g
+                 class="legendsymbols"
+                 id="g83">
+                <g
+                   class="legendpoints"
+                   id="g82">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path81" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect84" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,109.5)"
+             style="opacity:1"
+             id="g91">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text85">Pasture/Hay</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g90">
+              <g
+                 class="legendfill"
+                 id="g86" />
+              <g
+                 class="legendlines"
+                 id="g87" />
+              <g
+                 class="legendsymbols"
+                 id="g89">
+                <g
+                   class="legendpoints"
+                   id="g88">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path87" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect90" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,128.5)"
+             style="opacity:1"
+             id="g97">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text91">Open Water</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g96">
+              <g
+                 class="legendfill"
+                 id="g92" />
+              <g
+                 class="legendlines"
+                 id="g93" />
+              <g
+                 class="legendsymbols"
+                 id="g95">
+                <g
+                   class="legendpoints"
+                   id="g94">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path93" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect96" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,147.5)"
+             style="opacity:1"
+             id="g103">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text97">Woody Wetlands</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g102">
+              <g
+                 class="legendfill"
+                 id="g98" />
+              <g
+                 class="legendlines"
+                 id="g99" />
+              <g
+                 class="legendsymbols"
+                 id="g101">
+                <g
+                   class="legendpoints"
+                   id="g100">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path99" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect102" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,166.5)"
+             style="opacity:1"
+             id="g109">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text103">Mixed Forest</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g108">
+              <g
+                 class="legendfill"
+                 id="g104" />
+              <g
+                 class="legendlines"
+                 id="g105" />
+              <g
+                 class="legendsymbols"
+                 id="g107">
+                <g
+                   class="legendpoints"
+                   id="g106">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ff97ff;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path105" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect108" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,185.5)"
+             style="opacity:1"
+             id="g115">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text109">Emergent Herbaceous Wetlands</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g114">
+              <g
+                 class="legendfill"
+                 id="g110" />
+              <g
+                 class="legendlines"
+                 id="g111" />
+              <g
+                 class="legendsymbols"
+                 id="g113">
+                <g
+                   class="legendpoints"
+                   id="g112">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#fecb52;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path111" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect114" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,204.5)"
+             style="opacity:1"
+             id="g121">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text115">Developed, Low Intensity</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g120">
+              <g
+                 class="legendfill"
+                 id="g116" />
+              <g
+                 class="legendlines"
+                 id="g117" />
+              <g
+                 class="legendsymbols"
+                 id="g119">
+                <g
+                   class="legendpoints"
+                   id="g118">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#c6cafd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path117" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect120" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,223.5)"
+             style="opacity:1"
+             id="g127">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text121">Developed, Medium Intensity</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g126">
+              <g
+                 class="legendfill"
+                 id="g122" />
+              <g
+                 class="legendlines"
+                 id="g123" />
+              <g
+                 class="legendsymbols"
+                 id="g125">
+                <g
+                   class="legendpoints"
+                   id="g124">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#f7a799;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path123" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect126" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,242.5)"
+             style="opacity:1"
+             id="g133">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text127">Barren Land (Rock/Sand/Clay)</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g132">
+              <g
+                 class="legendfill"
+                 id="g128" />
+              <g
+                 class="legendlines"
+                 id="g129" />
+              <g
+                 class="legendsymbols"
+                 id="g131">
+                <g
+                   class="legendpoints"
+                   id="g130">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#33ffc9;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path129" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect132" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,261.5)"
+             style="opacity:1"
+             id="g139">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text133">Developed, Open Space</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g138">
+              <g
+                 class="legendfill"
+                 id="g134" />
+              <g
+                 class="legendlines"
+                 id="g135" />
+              <g
+                 class="legendsymbols"
+                 id="g137">
+                <g
+                   class="legendpoints"
+                   id="g136">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#e0c6fd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path135" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect138" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,280.5)"
+             style="opacity:1"
+             id="g145">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text139">Developed, High Intensity</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g144">
+              <g
+                 class="legendfill"
+                 id="g140" />
+              <g
+                 class="legendlines"
+                 id="g141" />
+              <g
+                 class="legendsymbols"
+                 id="g143">
+                <g
+                   class="legendpoints"
+                   id="g142">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ffdbc0;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path141" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect144" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,299.5)"
+             style="opacity:1"
+             id="g151">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text145">Perennial Ice/Snow</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g150">
+              <g
+                 class="legendfill"
+                 id="g146" />
+              <g
+                 class="legendlines"
+                 id="g147" />
+              <g
+                 class="legendsymbols"
+                 id="g149">
+                <g
+                   class="legendpoints"
+                   id="g148">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#7ae6f8;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path147" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="232.40625"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect150" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="scrollbar"
+         rx="20"
+         ry="3"
+         width="0"
+         height="0"
+         x="0"
+         y="0"
+         style="fill:#808ba4;fill-opacity:1"
+         id="rect153" />
+    </g>
+    <g
+       class="g-gtitle"
+       id="g155" />
+  </g>
+</svg>

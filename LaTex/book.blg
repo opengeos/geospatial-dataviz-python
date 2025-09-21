@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: book.aux
+A level-1 auxiliary file: chapter.aux
+The style file: apa.bst
+Database file #1: references.bib
+Warning--entry type for "Joris2024" isn't style-file defined
+--line 30 of file references.bib
+Warning--there's a number but no volume in Osco2023
+You've used 11 entries,
+            1940 wiz_defined-function locations,
+            556 strings with 6115 characters,
+and the built_in function-call counts, 4989 in all, are:
+= -- 436
+> -- 329
+< -- 6
++ -- 120
+- -- 120
+* -- 493
+:= -- 917
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 114
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 148
+empty$ -- 273
+format.name$ -- 135
+if$ -- 911
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 11
+newline$ -- 57
+num.names$ -- 33
+pop$ -- 96
+preamble$ -- 1
+purify$ -- 115
+quote$ -- 0
+skip$ -- 113
+stack$ -- 0
+substring$ -- 238
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 64
+warning$ -- 1
+while$ -- 30
+width$ -- 0
+write$ -- 140
+(There were 2 warnings)
